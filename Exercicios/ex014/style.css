@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+h2{
+    color: brown;
+    font: 1em arial;
+}
+#in{
+    color: aqua;
+}
+p{
+    text-align: justify;
+}
+body{
+    background-color: bisque;
+}
